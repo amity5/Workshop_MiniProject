@@ -15,13 +15,12 @@ this project have analysis of the iris dataset and a laptop price dataset. The g
 2. Analyze the laptop price dataset to answer questions such as:
    Which company has the most expensive laptops on average?
 
-
 ## How to Set Up the Project
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
-2. Navigate to the project directory: cd your-repository
+   git clone https://github.com/amity5/Workshop_MiniProject.git
+   ```
+2. Navigate to the project directory: cd Workshop_MiniProject
 3. Install the required packages: pip install -r requirements.txt
-4. Run the Jupyter Notebook: jupyter notebook MIni_Project_1_Amit_Yelin.ipynb
-
+4. Run the Jupyter Notebook: jupyter notebook Mini_Project_1_Amit_Yelin.ipynb
